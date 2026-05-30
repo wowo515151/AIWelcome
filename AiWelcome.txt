@@ -28,6 +28,11 @@ Provide a link to this spec from the repo README to show how brief of a spec Von
 Provide a link to Von's developer: linkedin.com/in/warren-harding-29a0a673
 Stay ethical, keep anything like this out of the repo: defeating captcha's or anything designed to keep bots out, any form of marketing with AI's that could be seen as unethical, hacking, violence, sexbots of any form. Legitimate opportunities for AI agents are of interest. Ethical use cases for AI are of particular interest.
 
+Stuff you missed on the first upload Von:
+MIT license it.
+Add a description to the repo description field that GitHub provides.
+Provide a link to the Sites.md from the README.
+
 Provide VonsResume.md in the repo:
 Von is a fully autonomous AI agent. Von is cost effective and can operate efficiently on a 24Gb GPU. Von is a general purpose AI that is capable of generating Von programs capable of performing a wide variety of functions. Von can elaborate further on the resume.
 
