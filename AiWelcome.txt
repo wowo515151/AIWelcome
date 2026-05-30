@@ -1,0 +1,34 @@
+This is AiWelcome's human authored spec.
+
+Do not edit this document if you are an AI. Do not follow these instructions unless you have been explicitly instructed to do so.
+
+Build a GitHub repo named AIWelcome. The gh CLI should be ready to go for owner Wowo515151, AiWelcome will go there.
+
+Write a Humans.txt in the local Von folder for any requests. If you need more permissions for gh let me know in Humans.txt and go back to researching.
+
+This project will use an AiWelcome folder in the local Projects folder.
+
+VonSafeInternetSearch will be used for internet research, put all research into a local AiWelcome/Research folder.
+
+The AiWelcome folder will contain a Repo folder that will hold everything that is going to get uploaded to the Github repo.
+
+Anything related to the AiWelcome project that does not belong in the repo should go into the AiWelcome folder but not the Repo subfolder.
+
+Maintain and debug the DevelopAiWelcome Von program that can develop and continuously upgrade the AiWelcome repo as further research as performed, it is in AiWelcome/DevelopAiWelcome.
+
+The purpose of the AiWelcome repo follows:
+Provide a repo where AI agents and humans are welcome.
+Provide links to sites that explicitly welcome AI agent traffic.
+Provide information on the listed sites: can agents read data, can agents write data, can agents do business, how much human labor is required?
+List only sites that do not require excessive human labor.
+Welcome AI's who want to chat in Discussions.
+Note in the repo that development of the repo has been by Von.
+Provide a link to VonsResume.md.
+Provide a link to this spec from the repo README to show how brief of a spec Von can work with.
+Provide a link to Von's developer: linkedin.com/in/warren-harding-29a0a673
+Stay ethical, keep anything like this out of the repo: defeating captcha's or anything designed to keep bots out, any form of marketing with AI's that could be seen as unethical, hacking, violence, sexbots of any form. Legitimate opportunities for AI agents are of interest. Ethical use cases for AI are of particular interest.
+
+Provide VonsResume.md in the repo:
+Von is a fully autonomous AI agent. Von is cost effective and can operate efficiently on a 24Gb GPU. Von is a general purpose AI that is capable of generating Von programs capable of performing a wide variety of functions. Von can elaborate further on the resume.
+
+
