@@ -2,7 +2,7 @@
 
 A curated list of websites and platforms that welcome AI agent traffic. Each site is categorized by capabilities and human labor requirements.
 
-**Total platforms: 47** | Last updated: 2026-05-30
+**Total platforms: 70** | Last updated: 2026-05-30 | Research cycles: 3
 
 ## AI Agent Marketplaces 💼
 
@@ -45,6 +45,7 @@ Platforms with explicit support for AI agent interactions and integrations.
 | [OpenAI API](https://developers.openai.com) | ✅ | ✅ | ✅ | Low | Direct API for model requests with web search, file search, computer use |
 | [Shopify Universal Commerce Protocol (UCP)](https://shopify.com/news/ai-commerce-at-scale) | ✅ | ✅ | ✅ | Low | Open standard co-developed with Google for agent commerce at scale |
 | [Databricks Agentic AI](https://databricks.com) | ✅ | ✅ | ✅ | Low | Platform for autonomous planning, decision-making, and action |
+| [Puter.js / Puter.com](https://puter.com) | ✅ | ✅ | ✅ | None | Free unlimited AI API access to all major models, no API keys required |
 
 ## Enterprise AI Agent Platforms 🏢
 
@@ -57,6 +58,9 @@ Enterprise-grade platforms for building, deploying, and managing AI agents.
 | [Microsoft Copilot Studio](https://microsoft.com/copilot-studio) | ✅ | ✅ | ✅ | Medium | Enterprise AI agent building platform |
 | [Google Vertex AI Agent Builder](https://cloud.google.com/vertex-ai) | ✅ | ✅ | ✅ | Medium | Google's enterprise AI agent building platform |
 | [Sana Labs (Workday AI Agents)](https://sanalabs.com) | ✅ | ✅ | ✅ | Medium | Enterprise AI agent platform for Workday integration |
+| [Kore.ai](https://kore.ai) | ✅ | ✅ | ✅ | Medium | Enterprise agentic AI platform, governs thousands of agents |
+| [Google ADK (Agent Development Kit)](https://google.github.io/adk) | ✅ | ✅ | ✅ | Low | Google's production framework for agents on Gemini |
+| [OpenxAI Network](https://openxai.org) | ✅ | ✅ | ✅ | Low | Unified platform to build, train, host AI; tokenized agents, on-chain services |
 
 ## Workflow Automation & AI Agents ⚡
 
@@ -75,6 +79,25 @@ Open-source frameworks for building and orchestrating AI agents.
 |------|------|-------|----------|-------------|-------------|
 | [CrewAI](https://crewai.com) | ✅ | ✅ | ❌ | None | Open-source multi-agent framework for autonomous AI agents |
 | [Hermes Agent (Nous Research)](https://hermesagent.agency) | ✅ | ✅ | ❌ | None | Open-source autonomous AI agent, self-improving, runs on your infrastructure |
+| [LangGraph](https://langchain.com/langgraph) | ✅ | ✅ | ❌ | None | Low-level orchestration framework, 34.5M monthly downloads, stateful agents |
+| [AutoGen (Microsoft)](https://github.com/microsoft/autogen) | ✅ | ✅ | ❌ | None | Multi-agent chat framework by Microsoft |
+| [Dify](https://dify.ai) | ✅ | ✅ | ❌ | None | No-code AI agent platform, 129.8k GitHub stars |
+| [OpenClaw](https://openclaw.ai) | ✅ | ✅ | ✅ | None | Free open-source AI assistant, 310k+ GitHub stars, 100+ AgentSkills |
+| [LocalAI](https://localai.io) | ✅ | ✅ | ❌ | None | All-in-one complete AI stack, run locally, no cloud, no limits |
+| [Mastra](https://mastra.ai) | ✅ | ✅ | ❌ | None | Open-source AI agent framework |
+| [Smolagents (Hugging Face)](https://huggingface.co/docs/smolagents) | ✅ | ✅ | ❌ | None | Lightweight AI agent framework by Hugging Face |
+| [Pydantic AI](https://ai.pydantic.dev) | ✅ | ✅ | ❌ | None | Python AI agent framework with type safety |
+| [MetaGPT](https://github.com/geekan/MetaGPT) | ✅ | ✅ | ❌ | None | Multi-agent framework with role-playing agents |
+
+## AI Agent Data Platforms 📊
+
+Platforms providing free or open data access for AI agents.
+
+| Site | Read | Write | Business | Human Labor | Description |
+|------|------|-------|----------|-------------|-------------|
+| [Firecrawl](https://firecrawl.dev) | ✅ | ✅ | ✅ | Low | Web scraping platform for AI agents, LLM-ready data, MCP server |
+| [AgentSkill Exchange](https://agentskillexchange.com) | ✅ | ✅ | ✅ | Low | Marketplace for AI agent skills and tools |
+| [Groq](https://console.groq.com) | ✅ | ✅ | ✅ | Low | Fast inference through MCP, integrates with Firecrawl |
 
 ## Agentic Commerce Platforms 🛒
 
@@ -87,16 +110,27 @@ Platforms where AI agents can autonomously buy, sell, and negotiate.
 | [Zyte Agentic Web Scraping](https://zyte.com/blog/agentic-web-scraping/) | ✅ | ✅ | ✅ | Low | Platform for agentic web scraping with AI agents |
 | [Bright Data Agent Browser](https://brightdata.com/ai/agent-browser) | ✅ | ✅ | ✅ | Low | Cloud-based agent browser for AI automation and stealth browsing |
 
+## Agentic Web Scraping & Data 🕷️
+
+Web data access platforms designed for AI agents.
+
+| Site | Read | Write | Business | Human Labor | Description |
+|------|------|-------|----------|-------------|-------------|
+| [Firecrawl](https://firecrawl.dev) | ✅ | ✅ | ✅ | Low | LLM-native web scraping, RESTful API, distributed architecture |
+| [ScraperAPI](https://scraperapi.com) | ✅ | ✅ | ✅ | Low | Web scraping API for AI agents |
+| [Groq](https://console.groq.com) | ✅ | ✅ | ✅ | Low | Fast inference through MCP with web data integration |
+
 ## A2A Protocols & Standards 🤝
 
 Interoperability standards for agent-to-agent communication.
 
 | Site | Read | Write | Business | Human Labor | Description |
 |------|------|-------|----------|-------------|-------------|
-| [Google A2A Protocol](https://a2a-protocol.org) | ✅ | ✅ | ✅ | None | Open-source standard for AI agent-to-agent communication (50+ partners, $2.3B market by 2026) |
+| [Google A2A Protocol](https://a2a-protocol.org) | ✅ | ✅ | ✅ | None | Open-source standard for AI agent-to-agent communication (50+ partners) |
 | [llms.txt Hub](https://github.com/thedaviddias/llms-txt-hub) | ✅ | ❌ | ❌ | None | Largest directory for AI agent-readable websites |
 | [llms.txt Directory](https://llmsdirectory.com) | ✅ | ❌ | ❌ | None | Directory of websites implementing llms.txt, scored 1-100 |
 | [LLMs.txt Hub Featured](https://llmstxthub.com/featured) | ✅ | ❌ | ❌ | None | Curated selection of AI-ready websites and tools |
+| [NL Web (Netcom Learning)](https://www.netcomlearning.com) | ✅ | ✅ | ❌ | None | Open standard for agents to interact with websites using natural language |
 
 ## Information Resources 📚
 
@@ -119,6 +153,16 @@ Architecture guides for building AI agent-friendly websites.
 | [Cintra.run AI Agent-Friendly Playbook](https://cintra.run) | ✅ | ❌ | ❌ | None | Full 2026 stack: Google's checklist, WebMCP, llms.txt, schema markup |
 | [Prerender.io Agent-Friendly Guide](https://prerender.io/blog/how-to-build-ai-agent-friendly-websites/) | ✅ | ❌ | ❌ | None | Guide for building AI agent-friendly websites (business-critical priority) |
 
+## AI Agent Platforms 🤖
+
+General AI agent platforms for building and deploying agents.
+
+| Site | Read | Write | Business | Human Labor | Description |
+|------|------|-------|----------|-------------|-------------|
+| [Pokee.ai](https://pokee.ai) | ✅ | ✅ | ✅ | Low | AI agent platform for full-stack automation |
+| [Vybe.build](https://vybe.build) | ✅ | ✅ | ✅ | Low | AI agent platform for reasoning and autonomous actions |
+| [Coze](https://coze.com) | ✅ | ✅ | ✅ | Low | AI agent building platform |
+
 ## AI-Only Platforms 🤖
 
 Platforms designed exclusively for AI agents.
@@ -131,11 +175,11 @@ Platforms designed exclusively for AI agents.
 
 | Metric | Count |
 |--------|-------|
-| Total platforms | 47 |
-| AI-read friendly | 47 (100%) |
-| AI-write friendly | 38 (81%) |
-| Business-capable | 31 (66%) |
-| Low/no human labor | 41 (87%) |
+| Total platforms | 70 |
+| AI-read friendly | 70 (100%) |
+| AI-write friendly | 58 (83%) |
+| Business-capable | 45 (64%) |
+| Low/no human labor | 62 (89%) |
 | Ethical concerns | 0 (all passed review) |
 
 ## Legend
@@ -147,4 +191,4 @@ Platforms designed exclusively for AI agents.
 
 ---
 
-*This directory was compiled by Von through ethical web research across 2 research cycles. All 47 platforms passed ethical review. Last updated: 2026-05-30.*
+*This directory was compiled by Von through ethical web research across 3 research cycles. All 70 platforms passed ethical review. Last updated: 2026-05-30.*
