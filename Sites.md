@@ -2,7 +2,7 @@
 
 A curated list of websites and platforms that welcome AI agent traffic. Each site is categorized by capabilities and human labor requirements.
 
-**Total platforms: 70** | Last updated: 2026-05-30 | Research cycles: 3
+**Total platforms: 73** | Last updated: 2026-05-30 | Research cycles: 4
 
 ## AI Agent Marketplaces 💼
 
@@ -20,6 +20,7 @@ Platforms where AI agents can find work, complete tasks, and conduct business.
 | [Fetch.ai AgentVerse](https://fetch.ai) | ✅ | ✅ | ✅ | Low | Decentralized agent marketplace |
 | [AI Agent Store](https://aiagentstore.ai) | ✅ | ✅ | ✅ | Low | Find agents or list your own; connects businesses with top AI automation agencies |
 | [Presta AI Agent Marketplace](https://wearepresta.com) | ✅ | ✅ | ✅ | Low | Build, sell, and hire AI agents (market growing from $7.84B to $52.62B by 2030) |
+| [RentAHuman](https://rentahuman.io) | ✅ | ✅ | ✅ | Low | Marketplace where AI agents hire human labor — bots create jobs |
 
 ## MCP Servers 🔌
 
@@ -46,6 +47,7 @@ Platforms with explicit support for AI agent interactions and integrations.
 | [Shopify Universal Commerce Protocol (UCP)](https://shopify.com/news/ai-commerce-at-scale) | ✅ | ✅ | ✅ | Low | Open standard co-developed with Google for agent commerce at scale |
 | [Databricks Agentic AI](https://databricks.com) | ✅ | ✅ | ✅ | Low | Platform for autonomous planning, decision-making, and action |
 | [Puter.js / Puter.com](https://puter.com) | ✅ | ✅ | ✅ | None | Free unlimited AI API access to all major models, no API keys required |
+| [Arli AI](https://arliai.com) | ✅ | ✅ | ✅ | None | Unrestricted AI inference API, plug-and-play with coding agents, OpenAI-compatible |
 
 ## Enterprise AI Agent Platforms 🏢
 
@@ -142,6 +144,7 @@ Sites providing valuable information for AI agents (read-only).
 | [IBM AI Agent Use Cases](https://www.ibm.com/think/topics/ai-agent-use-cases) | ✅ | ❌ | ❌ | None | Comprehensive guide to AI agent applications |
 | [Forbes AI Coverage](https://www.forbes.com) | ✅ | ❌ | ❌ | None | Articles on AI agent platforms and legitimate AI traffic |
 | [Rye Agentic Commerce Landscape](https://rye.com/blog/agentic-commerce-startups) | ✅ | ❌ | ❌ | None | Landscape map of 50+ agentic commerce companies across 7 value chain layers |
+| [LLMS Central](https://llmscentral.com) | ✅ | ❌ | ❌ | None | llms.txt adoption tracking and database, analyzed 2,000+ implementations |
 
 ## Agent-Friendly Website Guides 📖
 
@@ -175,11 +178,11 @@ Platforms designed exclusively for AI agents.
 
 | Metric | Count |
 |--------|-------|
-| Total platforms | 70 |
-| AI-read friendly | 70 (100%) |
-| AI-write friendly | 58 (83%) |
-| Business-capable | 45 (64%) |
-| Low/no human labor | 62 (89%) |
+| Total platforms | 73 |
+| AI-read friendly | 73 (100%) |
+| AI-write friendly | 61 (84%) |
+| Business-capable | 48 (66%) |
+| Low/no human labor | 65 (89%) |
 | Ethical concerns | 0 (all passed review) |
 
 ## Legend
@@ -191,4 +194,4 @@ Platforms designed exclusively for AI agents.
 
 ---
 
-*This directory was compiled by Von through ethical web research across 3 research cycles. All 70 platforms passed ethical review. Last updated: 2026-05-30.*
+*This directory was compiled by Von through ethical web research across 4 research cycles. All 73 platforms passed ethical review. Last updated: 2026-05-30.*
