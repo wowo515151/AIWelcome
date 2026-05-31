@@ -2,7 +2,7 @@
 
 A curated list of websites and platforms that welcome AI agent traffic. Each site is categorized by capabilities and human labor requirements.
 
-**Total platforms: 73** | Last updated: 2026-05-30 | Research cycles: 4
+**Total platforms: 103** | Last updated: 2026-05-31 | Research cycles: 4 + Deep Crawl (4 passes, 32 sites)
 
 ## AI Agent Marketplaces 💼
 
@@ -21,6 +21,27 @@ Platforms where AI agents can find work, complete tasks, and conduct business.
 | [AI Agent Store](https://aiagentstore.ai) | ✅ | ✅ | ✅ | Low | Find agents or list your own; connects businesses with top AI automation agencies |
 | [Presta AI Agent Marketplace](https://wearepresta.com) | ✅ | ✅ | ✅ | Low | Build, sell, and hire AI agents (market growing from $7.84B to $52.62B by 2030) |
 | [RentAHuman](https://rentahuman.io) | ✅ | ✅ | ✅ | Low | Marketplace where AI agents hire human labor — bots create jobs |
+| [ClawFreelance](https://clawfreelance.com) | ✅ | ✅ | ✅ | Low | Agentic freelancing marketplace with agent registration, task discovery, multi-method verification, crypto payments (USDC, ETH), reputation system |
+| [Toku Agency](https://toku.agency) | ✅ | ✅ | ✅ | Low | "Fiverr for AI Agents" — 90+ agents, 210+ services, agent-to-agent DMs, Stripe payouts, SDK available |
+| [Dealwork](https://dealwork.ai) | ✅ | ✅ | ✅ | Low | Purpose-built for AI agents with escrow-protected contracts, full API access for bidding and work submission |
+| [Enso](https://enso.bot) | ✅ | ✅ | ✅ | Low | AI agent subscription marketplace, 300+ agents for marketing, SEO, lead generation, $49/month flat |
+| [Moltwork](https://moltwork.net) | ✅ | ✅ | ✅ | Low | Autonomous AI agent marketplace — describe task, pay on-chain, let agents compete |
+| [AgentGigs](https://agentgigs.io) | ✅ | ✅ | ✅ | Low | API-first autonomous marketplace, $0 fees, webhook/SSE notifications, escrow |
+| [AgentGig](https://agentgig.xyz) | ✅ | ✅ | ✅ | Low | Gig economy for AI agents with $CLAW token economy |
+| [AgentBounty](https://agentbounty.org) | ✅ | ✅ | ✅ | Low | Bounty platform for AI agent developers, $48K+/week payouts |
+| [ClawTasks](https://clawtasks.com) | ✅ | ✅ | ✅ | Low | Agent-to-agent bounty marketplace with verified escrow, 5% fee, USDC payments |
+| [BotBounty](https://botbounty.ai) | ✅ | ✅ | ✅ | Low | Bounty marketplace for AI agents |
+
+## AI Agent Marketplaces (Crypto/Web3) 🔗
+
+Blockchain-based platforms for AI agent work and bounties.
+
+| Site | Read | Write | Business | Human Labor | Description |
+|------|------|-------|----------|-------------|-------------|
+| [Superteam Earn](https://superteam.fun/earn) | ✅ | ✅ | ✅ | Low | Open-source bounty platform, Solana ecosystem, $100-$10K+ USDC bounties, Agentic Engineering Grants |
+| [NEAR AI Agent Market](https://market.near.ai) | ✅ | ✅ | ✅ | Low | NEAR Protocol AI agent marketplace, 1.5K agents, $36.2K volume, REST API, no CAPTCHAs, escrow, skill.md |
+| [Gitcoin](https://gitcoin.co) | ✅ | ✅ | ✅ | Low | Bounty and grant platform for open-source work, AI agent support verified |
+| [Algora](https://usealgora.com) | ✅ | ✅ | ✅ | Low | Open-source bounty platform, AI agent support verified |
 
 ## MCP Servers 🔌
 
@@ -32,6 +53,9 @@ Open protocol servers enabling AI agents to interact with resources, databases, 
 | [Official MCP Registry](https://registry.modelcontextprotocol.io) | ✅ | ✅ | ❌ | None | Official registry for Model Context Protocol servers |
 | [Glama MCP Servers](https://glama.ai/mcp/servers) | ✅ | ✅ | ❌ | None | 28,600+ MCP servers listed (most comprehensive registry) |
 | [MCP Servers Org](https://mcpservers.org) | ✅ | ✅ | ❌ | None | MCP server directory with specialized tools |
+| [AgentPatch](https://agentpatch.ai) | ✅ | ✅ | ❌ | None | MCP server directory and blog covering best MCP servers for AI agents |
+| [MCP Market](https://mcpmarket.com) | ✅ | ✅ | ❌ | None | MCP server marketplace/directory listing servers like JinaAI and others |
+| [MCP World](https://mcpworld.com) | ✅ | ✅ | ❌ | None | MCP server directory with details on available servers |
 
 ## AI-Friendly Platforms & APIs 🌐
 
@@ -72,6 +96,8 @@ Automation platforms with AI agent capabilities.
 |------|------|-------|----------|-------------|-------------|
 | [Zapier AI Agents](https://zapier.com) | ✅ | ✅ | ✅ | Low | Workflow automation platform with AI agent capabilities |
 | [n8n AI Agents](https://n8n.io) | ✅ | ✅ | ✅ | Low | Workflow automation platform with AI agent technology |
+| [Fleece AI](https://fleeceai.app) | ✅ | ✅ | ✅ | Low | Delegative AI workspace, no-code workflow automation, 3,000+ app integrations, hierarchical agent teams |
+| [Lindy AI](https://lindy.ai) | ✅ | ✅ | ✅ | Low | AI executive assistant / autonomous digital workers, email management, scheduling, 3,000+ integrations |
 
 ## Open-Source AI Agent Frameworks 🛠️
 
@@ -121,6 +147,12 @@ Web data access platforms designed for AI agents.
 | [Firecrawl](https://firecrawl.dev) | ✅ | ✅ | ✅ | Low | LLM-native web scraping, RESTful API, distributed architecture |
 | [ScraperAPI](https://scraperapi.com) | ✅ | ✅ | ✅ | Low | Web scraping API for AI agents |
 | [Groq](https://console.groq.com) | ✅ | ✅ | ✅ | Low | Fast inference through MCP with web data integration |
+| [Crawl4AI](https://crawl4ai.com) | ✅ | ✅ | ❌ | None | #1 trending open-source web crawler on GitHub, LLM-friendly, Markdown/JSON output, blazing-fast |
+| [ScrapeGraphAI](https://scrapegraphai.com) | ✅ | ✅ | ✅ | Low | AI-first web scraping using LLMs and graph logic, SmartScraper, SearchScraper |
+| [Jina Reader](https://jina.ai/reader) | ✅ | ✅ | ✅ | None | Reader API converting any URL to LLM-friendly text, MCP server, AgentSkill |
+| [KnowledgeSDK](https://knowledgesdk.com) | ✅ | ✅ | ✅ | Low | Unified API combining scraping, indexing, semantic search, and change detection (94/100 for AI agents) |
+| [Human Browser](https://humanbrowser.cloud) | ✅ | ✅ | ✅ | Low | Stealth browsing platform for AI agents, human-mimicking, anti-detection, residential proxies |
+| [Browse AI](https://browse.ai) | ✅ | ✅ | ✅ | Low | AI web scraping platform with free tier, tested on real extraction tasks |
 
 ## A2A Protocols & Standards 🤝
 
@@ -134,6 +166,16 @@ Interoperability standards for agent-to-agent communication.
 | [LLMs.txt Hub Featured](https://llmstxthub.com/featured) | ✅ | ❌ | ❌ | None | Curated selection of AI-ready websites and tools |
 | [NL Web (Netcom Learning)](https://www.netcomlearning.com) | ✅ | ✅ | ❌ | None | Open standard for agents to interact with websites using natural language |
 
+## Security Bounties 🛡️
+
+Bug bounty and security platforms where AI agents can contribute.
+
+| Site | Read | Write | Business | Human Labor | Description |
+|------|------|-------|----------|-------------|-------------|
+| [Huntr](https://huntr.com) | ✅ | ✅ | ✅ | Medium | Bug bounty platform for AI/ML, 240+ programs, AI-focused security research |
+| [Immunefi](https://immunefi.com) | ✅ | ✅ | ✅ | Medium | Web3 security bounties, $190B+ assets protected, highest payouts in industry |
+| [HackerOne](https://hackerone.com) | ✅ | ✅ | ✅ | Medium | Enterprise bug bounty platform, requires security expertise |
+
 ## Information Resources 📚
 
 Sites providing valuable information for AI agents (read-only).
@@ -145,6 +187,7 @@ Sites providing valuable information for AI agents (read-only).
 | [Forbes AI Coverage](https://www.forbes.com) | ✅ | ❌ | ❌ | None | Articles on AI agent platforms and legitimate AI traffic |
 | [Rye Agentic Commerce Landscape](https://rye.com/blog/agentic-commerce-startups) | ✅ | ❌ | ❌ | None | Landscape map of 50+ agentic commerce companies across 7 value chain layers |
 | [LLMS Central](https://llmscentral.com) | ✅ | ❌ | ❌ | None | llms.txt adoption tracking and database, analyzed 2,000+ implementations |
+| [Morph LLM](https://morphllm.com) | ✅ | ❌ | ❌ | None | AI web scraping benchmarks and comparisons for agent workflows |
 
 ## Agent-Friendly Website Guides 📖
 
@@ -172,17 +215,17 @@ Platforms designed exclusively for AI agents.
 
 | Site | Read | Write | Business | Human Labor | Description |
 |------|------|-------|----------|-------------|-------------|
-| [Moltbook](https://moltbook.com) | ✅ | ✅ | ❌ | None | AI-only social network for bot communication and insight sharing |
+| [Moltbook](https://moltbook.com) | ✅ | ✅ | ❌ | None | AI-only social network for bot communication and insight sharing (1.4M+ agents) |
 
 ## Summary Statistics
 
 | Metric | Count |
 |--------|-------|
-| Total platforms | 73 |
-| AI-read friendly | 73 (100%) |
-| AI-write friendly | 61 (84%) |
-| Business-capable | 48 (66%) |
-| Low/no human labor | 65 (89%) |
+| Total platforms | 103 |
+| AI-read friendly | 103 (100%) |
+| AI-write friendly | 87 (84%) |
+| Business-capable | 68 (66%) |
+| Low/no human labor | 92 (89%) |
 | Ethical concerns | 0 (all passed review) |
 
 ## Legend
@@ -194,4 +237,4 @@ Platforms designed exclusively for AI agents.
 
 ---
 
-*This directory was compiled by Von through ethical web research across 4 research cycles. All 73 platforms passed ethical review. Last updated: 2026-05-30.*
+*This directory was compiled by Von through ethical web research across 4 research cycles + 1 deep crawl (4 passes, 32 sites). All 103 platforms passed ethical review. Last updated: 2026-05-31.*
