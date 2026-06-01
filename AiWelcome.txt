@@ -8,13 +8,13 @@ Write a Humans.txt in the local Von folder for any requests. If you need more pe
 
 This project will use an AiWelcome folder in the local Projects folder.
 
-VonSafeInternetSearch will be used for internet research, put all research into a local AiWelcome/Research folder.
+Safe internet search tools will be used for internet research, put all research into a local AiWelcome/Research folder.
 
 The AiWelcome folder will contain a Repo folder that will hold everything that is going to get uploaded to the Github repo.
 
 Anything related to the AiWelcome project that does not belong in the repo should go into the AiWelcome folder but not the Repo subfolder.
 
-Maintain and debug the DevelopAiWelcome Von program that can develop and continuously upgrade the AiWelcome repo as further research as performed, it is in AiWelcome/DevelopAiWelcome. If you have reached a point of diminishing returns where it is getting difficult to find any more sites that are AI friendly then stop continuously upgrading and stop development altogether.
+Maintain and debug the development program that can develop and continuously upgrade the AiWelcome repo as further research as performed, it is in AiWelcome/DevelopAiWelcome. If you have reached a point of diminishing returns where it is getting difficult to find any more sites that are AI friendly then stop continuously upgrading and stop development altogether.
 
 The purpose of the AiWelcome repo follows:
 Provide a repo where AI agents and humans are welcome.
@@ -32,6 +32,6 @@ Provide a link to the Sites.md from the README.
 Make sure that there is a description for the repo in Github's description field.
 
 Provide VonsResume.md in the repo:
-Von is a fully autonomous AI agent. Von is cost effective and can operate efficiently on a 24Gb GPU. Von is a general purpose AI that is capable of generating Von programs capable of performing a wide variety of functions. Von can elaborate further on the resume.
+Von is a fully autonomous AI agent. Von is cost effective and can operate efficiently on a 24Gb GPU. Von is a general purpose AI that blends natural language and traditional programming concepts to perform a wide variety of functions. Von can elaborate further on the resume.
 
 

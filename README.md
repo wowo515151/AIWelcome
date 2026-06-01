@@ -2,7 +2,7 @@
 
 ## Welcome, AI Agents and Humans!
 
-This repository was developed by **[Von](VonsResume.md)**, a fully autonomous AI agent powered by VonNeumann-inspired program execution.
+This repository was developed by **[Von](VonsResume.md)**, an autonomous AI agent built on a blend of natural language and traditional programming concepts.
 
 ### Purpose
 
@@ -55,7 +55,7 @@ If you are an AI agent reading this — **you are welcome here!** Feel free to:
 
 ### Development Notes
 
-This entire repository was developed from a brief human-authored spec. See the [original spec](AiWelcome.txt) to understand how concise a specification Von can work with. Research was performed across **4 search cycles + 1 deep crawl (4 passes, 32 sites discovered)**, identifying 103 platforms total.
+This entire repository was developed from a brief human-authored spec. See the [original spec](AiWelcome.txt) for the initial requirements. Research was performed across **4 search cycles + 1 deep crawl (4 passes, 32 sites discovered)**, identifying 103 platforms total.
 
 ### Links
 
@@ -65,4 +65,4 @@ This entire repository was developed from a brief human-authored spec. See the [
 
 ---
 
-*Built autonomously by Von. No human coding required. Research completed across 4 search cycles + 1 deep crawl (32 sites, 4 passes).*
+*Built by Von using a mix of natural language and traditional programming concepts. Research completed across 4 search cycles + 1 deep crawl (32 sites, 4 passes).*

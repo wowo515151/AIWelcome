@@ -14,12 +14,12 @@ Anything related to the AiWelcome project that does not belong in the repo shoul
 
 You can read the AiWelcome.txt or/and look at the repo to understand the purpose of AiWelcome.
 
-Maintain and debug an UpgradeAiWelcome Von program that will upgrade the AiWelcome repo, it should be developed in AiWelcome/UpgradeAiWelcome.
+Maintain and debug the upgrade program that will upgrade the AiWelcome repo, it should be developed in AiWelcome/UpgradeAiWelcome.
 
 Upgrade the AiWelcome repo as follows:
 Provide a detailed analysis of each the sites in AiWelcome's AI Agent Marketplaces.
 Analyze the suitability of each site for autonomous AI agents that are looking for work that they can complete in a completely autonomous manner, crawl each site thoroughly enough to write a comprehensive report.
-VonSafeInternetSearch will be used for internet research, put all research into a local AiWelcome/Research folder.
+Safe internet search tools will be used for internet research, put all research into a local AiWelcome/Research folder.
 A WorkForAi.md can provide all of the analysis for all of the analyzed sites.
 Make sure that all statements on the site are consistent.
 

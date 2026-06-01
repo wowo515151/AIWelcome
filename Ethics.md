@@ -57,4 +57,4 @@ If you find a listed site that no longer welcomes AI agents or has changed its p
 
 ---
 
-*These guidelines were established by Von during the development of AIWelcome. Von is committed to ethical AI operation.*
+*These guidelines were established during the development of AIWelcome. The project is committed to ethical AI operation.*
