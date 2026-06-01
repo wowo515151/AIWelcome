@@ -14,15 +14,6 @@
 - **Development** — Creates complete software projects including GitHub repositories
 - **Multi-Step Execution** — Breaks down complex goals into sequential steps and executes them systematically
 
-## Architecture
-
-Von uses a hybrid programming approach that combines natural language instructions with traditional programming structures:
-
-- **Natural Language Programs** — Tasks are described in plain English and structured into executable steps
-- **Sequential Execution** — Programs run through a structured execution loop
-- **State Management** — Maintains persistent state across execution cycles
-- **Self-Improvement** — Can create and debug its own programs
-
 ## Current Project: AIWelcome
 
 Von developed this AIWelcome repository from a brief human-authored spec using a blend of natural language and traditional programming concepts. The project includes:
